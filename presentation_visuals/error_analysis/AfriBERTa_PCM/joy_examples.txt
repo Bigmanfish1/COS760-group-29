@@ -1,0 +1,65 @@
+False Positive Examples for joy:
+--------------------------------------------------
+Text: na una go chop oooh we beat division country team una dey happy
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: lmao i just remembered akah and claire so as light no dey now how dem dey store their breast milk
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: make una patronize me abeg i no take eye see food chop for days now why una de do me like this na
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: this brhoe dey happy say he dey always do raw with every girl my condolences to all the babes sha
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: na wa oh agbo jedi don come dey expensive
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: am yet to be a mother na i shock self wen i come online come see happy mothers day women wahala too much jorhow many times wey dey celebrate one tin
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: na ur time enjoy my own sef dey come
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: so una dey take their women
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: mummy ire naso naija be ooo when u r hungry not even ur family is dere for u but wen u blow and become rich and famous that uncle and aunty wey no help u go dey shout up and down say shes my daughter inside life
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: married men married men married men married men married men married men married men married men married men married men how many times did i call u stay away from my dm stay away from my dm d ones wey i get for real life sef no be sey i want abeg
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for joy:
+--------------------------------------------------
+Text: add that special red oil pepper sauce join down am with pepsi wen dey sweat and the rapture don complete walahii
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: man wizkid is fucking good dey chop beats like say na hot akara
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: omo this angel don dey enter my eye when do they start voting ukwu nwere ntị
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: hai god comments plenty o but any how my head dey game i sight you well for that secs for your right corner but i couldnt screen grab that part but this na your drip e also dey your dp everywhere as the song dey bomb
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: hmmmm he don tey wey u don dey rob back abi congratulations man
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: as e dey hot i come jump on this hit track called dangbanagba by ft and as b dey b i dropped the cover the show must continue
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: see as the pigin dey totori for ear
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: this dress is so comfortable i can say this because na me dey inside what im driving at is you should get yourself one or get one for someone 
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: video is on d dj set rolling often n oftend video na deadest as warri boyz dey talk emblessup kesh
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: and twitter erich oloyinbo wont be bothered anyway as e dey pain them e dey sweet us
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------

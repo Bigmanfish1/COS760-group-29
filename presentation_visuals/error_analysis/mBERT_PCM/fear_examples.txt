@@ -1,0 +1,65 @@
+False Positive Examples for fear:
+--------------------------------------------------
+Text: dey pain me reach bones say anytime i talk with my cousins or friends from benin city dem go chop bini like cabin biscuits and ill be replying with dirty english who do me dis thing self
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: lolall these oyibo therapy no dey workpesin wey own househim wife dey disrespect am a single dose of slapafenac everyday will calm her navs
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: some people just dey make mouth but their money na audiowe no dey see am at all the dream is
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: black and white police dey kill black people e don too muchhhh
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: hai god comments plenty o but any how my head dey game i sight you well for that secs for your right corner but i couldnt screen grab that part but this na your drip e also dey your dp everywhere as the song dey bomb
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: oh na guy u be sef and ive been calm with my words thinking im talking with a female alaye if u dont get the fuck off from here now eeeh
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: poverty must die this year boys dey work dem never collect oluwa please wire time no dey na you be our hope we pray and believe in you only
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: even off campus dem dey wreck
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: gtb just charge me for april sms abeg if na play make una stop how many una send me
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: uriel ur time is comingdey form caring wit ur black assacting like she caresand gosh she can talk africa
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for fear:
+--------------------------------------------------
+Text: pastor dey shout your children will suck your womb i say your children will suck your womb congregation dey halla amen amen the thing sound like joke right now but if you follow me dey dat street this morning your heart for cut
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: i get two weddings tomorrow materials don land buh was super lazy to sew now im tryna dodge em and idk how one na my tenant the other guy na childhood friend from church plus i get burial condolence same tomorrow i just want to be a toddler again god
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: if anybody dey wey i don offend in one way or the other make una please slide in my dm imma apologize either im at fault or youre at fault i go apologize and let all go its december thanks love always 
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: what im not understanding is why my gas in the oven decided to off on e own now one cake never done for the middle and na middle dey sweet pass pray for my cake
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: i don download this abeg app for like months now and i never win any giveaway se na so e bad reach ni abi na only me
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: don jazzy shey u go do small giveaway this december na u i use get hope o since this year e just dey jump me abi this no be my year chai
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: wetin den use do head self wey i no use biko tell me not even a giveaway won since day break what is my offense
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: if you see someone singing egungun be careful na express you dey go on the road abeg hold me im not stable
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: i dey look my phone dey laugh my family members dey think say na sweet emotions anyway may jehovah no let them have a mad son bcz of crypto
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: ah i run commot from lagos go village cos of corona now e don come meet me for this side
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------

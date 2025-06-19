@@ -1,0 +1,46 @@
+text,true_label,predicted_label,correct
+eminye imizamo yokuqhuba isibonelelo sabangasebenzi,anger,disgust,False
+kudonselwane izibhamu kuvulwa inkulisa empendle,anger,disgust,False
+ngingakabunjwa wayengazi sengingibunjiwe wayengazi asiphakamise izithunywa  ingathi uthixo anganembatha ngamandla okuqhubekela phambili noma kunzima sengathi omdala kunezinsuku anganihlenga aniphephise ezingozini nasemgadlweni nasezifungweni nalapho,anger,disgust,False
+bakhala ngotsotsi abokufika abaxoshwe emiqashweni,anger,joy,False
+abamfuni abathi ubize abafundi ngezimfene,anger,joy,False
+abasakazi bakhala ngokubanjiswa udonga,anger,joy,False
+kusale oyedwa enkundleni bedubulana namaphoyisa,anger,sadness,False
+ngeke ngithuke ngoba legenge ehamba nama sonto iweekend yonke ave idlana lapha ematendeni  ,anger,sadness,False
+abebucs nelinye ithambo lokugiya,anger,sadness,False
+useqalile ukulubhada phansi ekhankasa,anger,surprise,False
+nokulun02059586 lapho mina ngidla isinkwa lana ,anger,surprise,False
+uthando lwakhiwa wukukhulela emakhaya,anger,surprise,False
+kusolwa umkhuba ekhaya ngotholwe emotweni yakhe eseshonile esonakele,disgust,sadness,False
+uboshiwe umfundi obulale uthisha,disgust,sadness,False
+le mbiza icoba intlzyo ngathi imorning sickness ,disgust,sadness,False
+lihoxisiwe icala lowayeshaya indlwabu ejimini,disgust,surprise,False
+bazizwa bengaphephile abokufika abadayisa ethekwini,fear,disgust,False
+bakhungathekile owesifazane ebulawa yizinswelaboya phambi komndeni,fear,disgust,False
+kudutshulwe obephelezela ungqongqoshe emlaza,fear,disgust,False
+uvalo amabhubesi ebhubhisa imfuyo,fear,sadness,False
+umgungundlovu uhamba phambili ngababulawa yicovid19,fear,sadness,False
+umasipala uxovekile sidinga usizo lwamasosha  zandile gumede,fear,sadness,False
+uvalo kothisha abahlaselwe ngamatshe,fear,surprise,False
+injabulo emphakathini ucele efeza isithembiso ngamaphoyisa amabharethi,joy,disgust,False
+lusandizela phezulu ukhozi fm ngabalaleli,joy,disgust,False
+intatheli ibonga kwabayisekayo,joy,disgust,False
+umphakathi uhlomule ngamaloli amanzi,joy,sadness,False
+injabulo ukwesta ebopha ifindo lomshado,joy,sadness,False
+sijabulile ngabafuna ukuhola ianc,joy,sadness,False
+ichiefs ikhiphe ibhadi inqoba ekhaya koweligi,joy,surprise,False
+livelile iphoyisa elidubule umabhalane oyithwasa,sadness,disgust,False
+isililo isoka libulala umfundi maqede lachoma ngakho kufacebook,sadness,disgust,False
+isanef idumele kuhlukunyezwa izintatheli,sadness,disgust,False
+kunqunywa abangu6 imilenze ngosuku ngenxa kashukela,sadness,joy,False
+kushone abantu abangu9 kwalimala11 engozini yetekisi,sadness,joy,False
+isikhwele isosha libulala umlamu,sadness,surprise,False
+oweancyl usocongwe ephuma kokhuleka,sadness,surprise,False
+akakafihlwa owanqunywa ikhanda,sadness,surprise,False
+ukudla osekudliwa kunomthelela ekukhulelweni kwezingane ezincane,surprise,disgust,False
+ligwetshwe udilikajele iphoyisa elabulala intombi,surprise,disgust,False
+sekungaze kuvele ngelanga lomshado ukuthi makoti ubengasaphelele kanti kwalotsholwa kanjani nangu umama ekhihla islilo ngomakoti wakwakhe ourperfectwedding ,surprise,disgust,False
+kuboshwe abasebenzi besaa ababanjwe nezidakamizwa zikar45 million echina,surprise,joy,False
+uzuma uhlawuliswe r60 000 ngenkulumo enokucwasa,surprise,sadness,False
+uthisha usehole ur1m engasebenzi,surprise,sadness,False
+ubaba ecaleni lokudlwengula ingane 14 yakhulelwa,surprise,sadness,False

@@ -1,0 +1,65 @@
+False Positive Examples for sadness:
+--------------------------------------------------
+Text: waze wangcupha umuntu kodwa ngizothula 
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: bakhala ngotsotsi abokufika abaxoshwe emiqashweni
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: abameli babhoka ngokushiwo ngabo
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: im a very bad liar but for some reason my daughter believes mangithi ngzomshaya  the older ones kade babona ukuthi iyangihlula lento so ngyazibeka
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: inkosi ibahleka usulu abathi ingcwatshwe isinyenyela
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: being a light sleeper is shitty ngithuswe umuntu ophinde walala after that mina loku ngihleli since 3ish
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: benza nje obaba benu ebsuku  bebizwa ngo baby 
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: zanele_09 my mom lost her eyesight my dad couldnt talk either ulaka lulukhulu abalozi can be angry mina i was shit scared to go to the waters bawaletha kimi ngiyengihalazela last month sengivalekamadlebe ngifa yisbhobo nekhanda
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: sengisaba noku thimula forget nje to cough 
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: seeing tweets from joggers abavuke bayojaha umoya emgwaqeningaze ngaphuthelwa ke  kodwa ngisasaba i wont lie ill continue khona la ebhilidini for now
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for sadness:
+--------------------------------------------------
+Text: kusolwa umkhuba ekhaya ngotholwe emotweni yakhe eseshonile esonakele
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: ubone afike ngayo ularsen exoshwa kwichippa
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: kushone ozalwa abashonela enigeria
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: kugwazwe kwabulawa owayeyiphini likasihlalo weanc etshwane
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: kushiswe ibhungu umphambili libulawa
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: ligqunywe esitokisini iphoyisa elisolwa ngokubulala
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: badidekile kubulawa umhlengikazi ekilinikhi
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: utholwe ehlahlelwe obenyamalele ekhaya
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: kulimale abane engozini yemoto emgungundlovu
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: livelile iphoyisa elidubule umabhalane oyithwasa
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
