@@ -1,0 +1,53 @@
+Token Importance Analysis for mBERT_ZeroShot on PCM
+
+Example 1: dey pain me reach bones say anytime i talk with my cousins or friends from benin city dem go chop bini like cabin biscuits and ill be replying with dirty english who do me dis thing self
+
+  anger emotion:
+    Unexpected SHAP values shape
+  disgust emotion:
+    Unexpected SHAP values shape
+  fear emotion:
+    Unexpected SHAP values shape
+  joy emotion:
+    Unexpected SHAP values shape
+  sadness emotion:
+    Unexpected SHAP values shape
+  surprise emotion:
+    Unexpected SHAP values shape
+
+--------------------------------------------------
+
+Example 2: na una go chop oooh we beat division country team una dey happy
+
+  anger emotion:
+    Unexpected SHAP values shape
+  disgust emotion:
+    Unexpected SHAP values shape
+  fear emotion:
+    Unexpected SHAP values shape
+  joy emotion:
+    Unexpected SHAP values shape
+  sadness emotion:
+    Unexpected SHAP values shape
+  surprise emotion:
+    Unexpected SHAP values shape
+
+--------------------------------------------------
+
+Example 3: lolall these oyibo therapy no dey workpesin wey own househim wife dey disrespect am a single dose of slapafenac everyday will calm her navs
+
+  anger emotion:
+    Unexpected SHAP values shape
+  disgust emotion:
+    Unexpected SHAP values shape
+  fear emotion:
+    Unexpected SHAP values shape
+  joy emotion:
+    Unexpected SHAP values shape
+  sadness emotion:
+    Unexpected SHAP values shape
+  surprise emotion:
+    Unexpected SHAP values shape
+
+--------------------------------------------------
+

@@ -1,0 +1,65 @@
+False Positive Examples for sadness:
+--------------------------------------------------
+Text: black and white police dey kill black people e don too muchhhh
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: pastor dey shout your children will suck your womb i say your children will suck your womb congregation dey halla amen amen the thing sound like joke right now but if you follow me dey dat street this morning your heart for cut
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: e don happn wahala be like bicycle
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: im scared to take this loan from my sister her terms na die like im your baby brother oh this girl
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: e be like say e don happen o
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: am yet to be a mother na i shock self wen i come online come see happy mothers day women wahala too much jorhow many times wey dey celebrate one tin
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: i just dey vex i just dey quiet make e no be like say na bad belle dey do me
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: this is what you get when blockheads who like using religiously conservative dogmas as their shield to take canvass for more bribes get to hold on to powersilly laws wen no dey ever make sense in view and na man and woman keke be our problem for kano now abi faaccckk
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: dem dey chop you like that
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+Text: now no guy will truly believe is in love because no be only food them dey use you fit just dey your house dey like girl when you never talk to before or liked all of a sudden youre in love later they will be shouting men are scum women are scummers
+Model predicted sadness, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for sadness:
+--------------------------------------------------
+Text: waybill the android give me na urcchy wey don blow
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: make una patronize me abeg i no take eye see food chop for days now why una de do me like this na
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: naso dem no open mb bridge today again which wahala b dis na wetin happen na
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: during my nysc e get one babe i dey eye for uniuyo she hug me finish call me next day say wetin be the name of my perfume that the bf likes it
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: i get two weddings tomorrow materials don land buh was super lazy to sew now im tryna dodge em and idk how one na my tenant the other guy na childhood friend from church plus i get burial condolence same tomorrow i just want to be a toddler again god
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: nah today e don tey nah i just dey manage this place dey wait the day wey i go enter my country of origin wey be canada
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: na ur time enjoy my own sef dey come
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: aswear e no go funny wahala sef don pass the money them go wan pay you
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: everithing abt gej no dey work even the gbanjo card reader no work but see gmb dat one own na one time
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------
+Text: if anybody dey wey i don offend in one way or the other make una please slide in my dm imma apologize either im at fault or youre at fault i go apologize and let all go its december thanks love always 
+Model did not predict sadness, but it was labeled as such.
+--------------------------------------------------

@@ -1,0 +1,35 @@
+False Positive Examples for anger:
+--------------------------------------------------
+
+False Negative Examples for anger:
+--------------------------------------------------
+Text: lolall these oyibo therapy no dey workpesin wey own househim wife dey disrespect am a single dose of slapafenac everyday will calm her navs
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: oh na guy u be sef and ive been calm with my words thinking im talking with a female alaye if u dont get the fuck off from here now eeeh
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: lol this one na small na only the glass i go pick for ground because i go stone am for ground as e no high me i go pick am back for round
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: i just dey vex i just dey quiet make e no be like say na bad belle dey do me
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: lol me na those advert dey vex me pass
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: all d chairman make he dey call him self since na for mouth make he nor try me ooh nor send oh na d cc he dey bet so
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: watin da sup na boyz come out to protest for my side ajangbadi ojo lagos na e police don gun seven down and injured many with gunshot this lifes wont go down like dat this bad leaders must meet their waterloo and the times nowend bad governance our lives matter
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: omo i no fit pass for road again make oba cum for our rescue oo e pain me say dem use water stains my clothes coz i no get moni
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: the way wey slippers go cut for this lagos ehn israelites slippers dey learn work for where we dey person go waka come dey kick stone like ronaldo wey wan play free kick
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: e dey do me like say make i konk your head
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------

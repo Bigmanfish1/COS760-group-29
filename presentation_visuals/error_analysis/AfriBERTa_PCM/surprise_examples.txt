@@ -1,0 +1,65 @@
+False Positive Examples for surprise:
+--------------------------------------------------
+Text: some people just dey make mouth but their money na audiowe no dey see am at all the dream is
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: waybill the android give me na urcchy wey don blow
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: election day never reach they don pluck person eyes comot please im running back to ibadan lagos people are not going to take this thing lightly
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: even off campus dem dey wreck
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: naso dem no open mb bridge today again which wahala b dis na wetin happen na
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: gtb just charge me for april sms abeg if na play make una stop how many una send me
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: uriel ur time is comingdey form caring wit ur black assacting like she caresand gosh she can talk africa
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: e be like say e don happen o
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: this is what you get when blockheads who like using religiously conservative dogmas as their shield to take canvass for more bribes get to hold on to powersilly laws wen no dey ever make sense in view and na man and woman keke be our problem for kano now abi faaccckk
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: am not sure is the sun thats causing this sudden heat abeg who go help us repair this hell fire wey dey leak lydis
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for surprise:
+--------------------------------------------------
+Text: na una go chop oooh we beat division country team una dey happy
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: hai god comments plenty o but any how my head dey game i sight you well for that secs for your right corner but i couldnt screen grab that part but this na your drip e also dey your dp everywhere as the song dey bomb
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: lmao i just remembered akah and claire so as light no dey now how dem dey store their breast milk
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: pastor dey shout your children will suck your womb i say your children will suck your womb congregation dey halla amen amen the thing sound like joke right now but if you follow me dey dat street this morning your heart for cut
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: d population of lesbians on dis streets is getting higher by d daysooo disgusting wlhke mace ni mace for goodness sake mey zaki banii really dont have sense wen it coms to dis zan zagi uwar mutum wlh i will start u all
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: e don happn wahala be like bicycle
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: na wa oh agbo jedi don come dey expensive
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: am yet to be a mother na i shock self wen i come online come see happy mothers day women wahala too much jorhow many times wey dey celebrate one tin
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: i don baff like times and its not yet pm yet come imagine some people go still dey knack inside this kind weather o
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: is dis hw pple look wen dey go on low cut i look like smigel
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------

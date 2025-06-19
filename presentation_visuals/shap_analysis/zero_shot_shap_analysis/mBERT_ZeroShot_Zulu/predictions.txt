@@ -1,0 +1,24 @@
+Example 1: kusolwa umkhuba ekhaya ngotholwe emotweni yakhe eseshonile esonakele
+  anger: 0.1406
+  disgust: 0.0205
+  fear: 0.4272
+  joy: 0.3177
+  sadness: 0.0965
+  surprise: 0.8750
+
+Example 2: kusale oyedwa enkundleni bedubulana namaphoyisa
+  anger: 0.0974
+  disgust: 0.0370
+  fear: 0.1425
+  joy: 0.7051
+  sadness: 0.0592
+  surprise: 0.6947
+
+Example 3: ubone afike ngayo ularsen exoshwa kwichippa
+  anger: 0.1175
+  disgust: 0.0242
+  fear: 0.2510
+  joy: 0.4879
+  sadness: 0.0540
+  surprise: 0.7808
+

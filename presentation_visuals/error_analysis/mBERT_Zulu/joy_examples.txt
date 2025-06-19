@@ -1,0 +1,65 @@
+False Positive Examples for joy:
+--------------------------------------------------
+Text: kusale oyedwa enkundleni bedubulana namaphoyisa
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: ngeke ngithuke ngoba legenge ehamba nama sonto iweekend yonke ave idlana lapha ematendeni  
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: abebucs nelinye ithambo lokugiya
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: mfo_kathabizolo yobe bafo wami ngiyazisola futhi
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: _missndlela lutho wathi wathi uhlala enanda nje ngyabonga angthathi nenamba
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: waze wangcupha umuntu kodwa ngizothula 
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: mtimande_n ngizwe u kruger national park qha
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: bafuna ibe yisidlo sikakhisimusi isupersport
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: ijoka kwittm idlulela esigabeni esilandelayo kwinedbank
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: ucele akathi vu ngemibiko yakamuva ethinta uphenyo ngokubulawa kukameyiwa
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for joy:
+--------------------------------------------------
+Text: umphakathi uhlomule ngamaloli amanzi
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: injabulo ukwesta ebopha ifindo lomshado
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: sijabulile ngabafuna ukuhola ianc
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: ubathembisa injabulo abalandeli bamazulu
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: unolwazi uyakujabulela ukulingisa kwingane yami
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: released yesterday 28 jan mmmakudanswa ujuluke la engathi udakwe amadrugs unyakaza kamnandi nom uhlabe unyawo njengayo intokazi lungyk 
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: cnehshuga ngiyabonga kakhulu  nami ngikufisela usuku oluhle nokuthi izinhlelo zakho zihambe kahle
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: kufezeke iphupho leminyaka koweopw
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: injabulo emphakathini ucele efeza isithembiso ngamaphoyisa amabharethi
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: lusandizela phezulu ukhozi fm ngabalaleli
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
