@@ -1,0 +1,65 @@
+False Positive Examples for anger:
+--------------------------------------------------
+Text: make wuna stop dey like my tweets e dey make me think say don send me money i take god beg wuna i no want heart attack
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: black and white police dey kill black people e don too muchhhh
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: this is what you get when blockheads who like using religiously conservative dogmas as their shield to take canvass for more bribes get to hold on to powersilly laws wen no dey ever make sense in view and na man and woman keke be our problem for kano now abi faaccckk
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: lol wan killi me she said ffk became depressed so if baba buhari call u on phone now to come pick aso rock job u go come dey sing e praise
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: abeg i no want wrath of god oo pls anointed men of god forgive me oo na small pikin i be buna oorotfllwkmdlmaoandlol
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: na so i careless but everybody and everything says im very careful see this your thing na scam jare
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: please make e dey fall there because if e try fall for my site i don lose money
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: this ppl hand sef no good if dem no steal am e go break or lost
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: why she go know her self worth o wrong na
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: omo e be like say we go protest for the whole year be that this people no rate us say na sprinkle of people oh lord
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for anger:
+--------------------------------------------------
+Text: lol this one na small na only the glass i go pick for ground because i go stone am for ground as e no high me i go pick am back for round
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: i just dey vex i just dey quiet make e no be like say na bad belle dey do me
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: lol me na those advert dey vex me pass
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: all d chairman make he dey call him self since na for mouth make he nor try me ooh nor send oh na d cc he dey bet so
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: omo i no fit pass for road again make oba cum for our rescue oo e pain me say dem use water stains my clothes coz i no get moni
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: the way wey slippers go cut for this lagos ehn israelites slippers dey learn work for where we dey person go waka come dey kick stone like ronaldo wey wan play free kick
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: e dey do me like say make i konk your head
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: im tired already billionwetin dem dey renovate shey rat dey chop the furniture niwhich kind thing be this
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: no dey tag me for things like dis abeg or i go block you
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: i get one ebook wey go suit u make i send am the name na minding ya fking biziness
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------

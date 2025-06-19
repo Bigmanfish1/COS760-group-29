@@ -1,0 +1,65 @@
+False Positive Examples for fear:
+--------------------------------------------------
+Text: uzuma uhlawuliswe r60 000 ngenkulumo enokucwasa
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: eminye imizamo yokuqhuba isibonelelo sabangasebenzi
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: kudonselwane izibhamu kuvulwa inkulisa empendle
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: ayandise izinhlelo ezintsha isabc
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: owepolokwane usefudukele kwiwits ezombophela zisuka
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: nomndayi mina ngingayijabulela i sabbatical sthezozo even if its forced ngingayijabulela 
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: bengithi ngyaqaqa konakalasengoqawqa kahle ksassa
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: le mbiza icoba intlzyo ngathi imorning sickness 
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: uthisha usehole ur1m engasebenzi
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+Text: sebeyazenyeza ngokuncelisa emphakathini
+Model predicted fear, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for fear:
+--------------------------------------------------
+Text: uvalo amabhubesi ebhubhisa imfuyo
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: kushiswe amabhasi kamasipala emlaza
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: umgungundlovu uhamba phambili ngababulawa yicovid19
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: umasipala uxovekile sidinga usizo lwamasosha  zandile gumede
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: uvalo ngodlwengula abadala nabancane
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: zeeright  ngyayisaba ke leyo mina ngivele ngikhale ngokuba broke umuntu meke wakhuluma ngemali
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: iyashuba eyobukhosi bakwamaphumulo
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: isidumo kuvulelwa ngenhlamvu erenki
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: uvalo kusocongwa amalungu amabili eanc
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------
+Text: bahleli lubhojozi kubulawa umshayeli wetekisi
+Model did not predict fear, but it was labeled as such.
+--------------------------------------------------

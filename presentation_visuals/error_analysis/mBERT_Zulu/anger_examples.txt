@@ -1,0 +1,65 @@
+False Positive Examples for anger:
+--------------------------------------------------
+Text: sabelonxele_86  ushaya le encane scefe brutal fruit ayingibhodlisi mina
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: crimestats sinyukile isibalo sokubulawa nokudlwengulwa kwabantu kuleli
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: bathi inesifundo ithe gift
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: uzola wake wathi bamchith amapop corn agcwal istradi izolo ngibone leyonto a motorist was brutally killed ubuchopho baphuma aai pinetown mina ngi right ngayo angifuni ukungasho ngisayakhona kodwa hhai bandla ngi right ngayo
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: izobaqwashisa isugar daddies
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: chefscott_ angibacabangi ngigwala kabi umuntu ongifuna u10k per month girlfriend allowance no shame angikho lapho
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: ngoba ave ninamanga njalo la ekhaya nize niqambe amanga sekushoniwe fake news peddlers conduits of lies and purveyor of divisive evil  
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: zanele_09 my mom lost her eyesight my dad couldnt talk either ulaka lulukhulu abalozi can be angry mina i was shit scared to go to the waters bawaletha kimi ngiyengihalazela last month sengivalekamadlebe ngifa yisbhobo nekhanda
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: argh i hate being stood up  kanti mina ngizobhebha nini
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+Text: engabe yini le enhle ngempela etholwa abantu out of harboring isikhwele and failing to control their emotions udela owaziyo  
+Model predicted anger, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for anger:
+--------------------------------------------------
+Text: babhodla umlilo ngomholi weanc obulewe
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: bacasulwe ukuhlehla kwesigwebo abagilwa
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: kushiswe amabhasi kamasipala emlaza
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: bagxeka ukuhlaselwa kwethempeli
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: abamfuni abathi ubize abafundi ngezimfene
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: ugwetshwe udilikajele odlwengule ingane
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: kusuke esinamathambo kubangwa umzila
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: iyaqhubeka impi yamazwi kuramaphosa nolekota
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: bayaveva ngokujola kukathisha nomfundi ecomtech
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------
+Text: uboshiwe owesilisa odlwengule isidumbu
+Model did not predict anger, but it was labeled as such.
+--------------------------------------------------

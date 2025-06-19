@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# Model files
+saved-models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.pb
+*.model
+**/checkpoint/
+**/checkpoints/
+**/models/
+**/weights/
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/

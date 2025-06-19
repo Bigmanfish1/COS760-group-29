@@ -1,0 +1,24 @@
+Example 1: dey pain me reach bones say anytime i talk with my cousins or friends from benin city dem go chop bini like cabin biscuits and ill be replying with dirty english who do me dis thing self
+  anger: 0.1224
+  disgust: 0.0083
+  fear: 0.8164
+  joy: 0.0888
+  sadness: 0.6923
+  surprise: 0.1269
+
+Example 2: na una go chop oooh we beat division country team una dey happy
+  anger: 0.0538
+  disgust: 0.0272
+  fear: 0.0807
+  joy: 0.8201
+  sadness: 0.1718
+  surprise: 0.0861
+
+Example 3: lolall these oyibo therapy no dey workpesin wey own househim wife dey disrespect am a single dose of slapafenac everyday will calm her navs
+  anger: 0.1112
+  disgust: 0.0050
+  fear: 0.5453
+  joy: 0.1902
+  sadness: 0.4120
+  surprise: 0.4768
+

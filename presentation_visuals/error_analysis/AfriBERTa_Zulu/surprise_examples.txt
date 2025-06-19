@@ -1,0 +1,65 @@
+False Positive Examples for surprise:
+--------------------------------------------------
+Text: kusale oyedwa enkundleni bedubulana namaphoyisa
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: abebucs nelinye ithambo lokugiya
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: eminye imizamo yokuqhuba isibonelelo sabangasebenzi
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: kudonselwane izibhamu kuvulwa inkulisa empendle
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: umokwena uthiywa yimiphumela emibi
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: qmqilingwa charliesamsonsa omzala abekho la kutwitter bale evillage
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: ayandise izinhlelo ezintsha isabc
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: uvalo amabhubesi ebhubhisa imfuyo
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: owepolokwane usefudukele kwiwits ezombophela zisuka
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+Text: likhotheme izinyane lesilo
+Model predicted surprise, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for surprise:
+--------------------------------------------------
+Text: ubone afike ngayo ularsen exoshwa kwichippa
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: ligqunywe esitokisini iphoyisa elisolwa ngokubulala
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: uthisha usehole ur1m engasebenzi
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: ubaba ecaleni lokudlwengula ingane 14 yakhulelwa
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: umfana 13 ubopha umnyango
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: usazoqhinqa ejele umfundisi wabasindisiwe osolwa ngokudlwengula
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: ujezisa abafundi ngokubawashisa izingubo zakhe
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: uvume elokuphihliza umnakwabo ngetshe
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: kuxoshwe othisha abayisikhombisa ngocansi nabafundi
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------
+Text: udle ushevu namadodana akhe amabili
+Model did not predict surprise, but it was labeled as such.
+--------------------------------------------------

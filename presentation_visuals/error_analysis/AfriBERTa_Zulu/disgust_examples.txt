@@ -1,0 +1,35 @@
+False Positive Examples for disgust:
+--------------------------------------------------
+
+False Negative Examples for disgust:
+--------------------------------------------------
+Text: kusolwa umkhuba ekhaya ngotholwe emotweni yakhe eseshonile esonakele
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: uboshiwe umfundi obulale uthisha
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: le mbiza icoba intlzyo ngathi imorning sickness 
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: ezothando ngintshontsha umka mfowethu
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: kutholwe izidumbu esezonakele
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: abamfuni abathi ubize abafundi ngezimfene
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: usolwa ngokufunza unina utshani
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: nashoke ukuthi ngoba sixoxela sihlekela la khona abangazwani nokushidaba  ay bandla 
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: baboshiwe abathenge usana ngor5 000
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------
+Text: uboshiwe owesilisa odlwengule isidumbu
+Model did not predict disgust, but it was labeled as such.
+--------------------------------------------------

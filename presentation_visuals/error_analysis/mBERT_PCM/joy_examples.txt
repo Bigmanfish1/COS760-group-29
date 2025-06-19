@@ -1,0 +1,65 @@
+False Positive Examples for joy:
+--------------------------------------------------
+Text: na una go chop oooh we beat division country team una dey happy
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: he say because say she get big yash that one say na she dey twerk because say she dey light skin that one say na she fine pass praise is a goat
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: lmao i just remembered akah and claire so as light no dey now how dem dey store their breast milk
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: make una patronize me abeg i no take eye see food chop for days now why una de do me like this na
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: pastor dey shout your children will suck your womb i say your children will suck your womb congregation dey halla amen amen the thing sound like joke right now but if you follow me dey dat street this morning your heart for cut
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: during my nysc e get one babe i dey eye for uniuyo she hug me finish call me next day say wetin be the name of my perfume that the bf likes it
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: i get two weddings tomorrow materials don land buh was super lazy to sew now im tryna dodge em and idk how one na my tenant the other guy na childhood friend from church plus i get burial condolence same tomorrow i just want to be a toddler again god
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: this brhoe dey happy say he dey always do raw with every girl my condolences to all the babes sha
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: d population of lesbians on dis streets is getting higher by d daysooo disgusting wlhke mace ni mace for goodness sake mey zaki banii really dont have sense wen it coms to dis zan zagi uwar mutum wlh i will start u all
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+Text: e don happn wahala be like bicycle
+Model predicted joy, but it was not labeled as such.
+--------------------------------------------------
+
+False Negative Examples for joy:
+--------------------------------------------------
+Text: man wizkid is fucking good dey chop beats like say na hot akara
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: hai god comments plenty o but any how my head dey game i sight you well for that secs for your right corner but i couldnt screen grab that part but this na your drip e also dey your dp everywhere as the song dey bomb
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: i dey look my phone dey laugh my family members dey think say na sweet emotions anyway may jehovah no let them have a mad son bcz of crypto
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: video is on d dj set rolling often n oftend video na deadest as warri boyz dey talk emblessup kesh
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: and twitter erich oloyinbo wont be bothered anyway as e dey pain them e dey sweet us
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: my dad bought a whole me aso odun dis yr man said im ur father and u re still my child keh dads shud continue being responsible for dia kids for as long as they can e touch me the way i will rock it on xmas ehn e go be guinea k starch k ill oppress u ppl
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: damn im listening to this jam and im like oh sht the gbedu e tight gan
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: e don reach us now im ready
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: i don chop three different types of rice and chicken my body don calm down
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------
+Text: lord am grateful na my song white woman they vibe to like say she dey with me for studio when i dey record the song believe in your self and never let any body tell you that you can not do itgod is with you
+Model did not predict joy, but it was labeled as such.
+--------------------------------------------------

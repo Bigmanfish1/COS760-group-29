@@ -1,0 +1,23 @@
+text,true_label,predicted_label,correct
+just came back from the toilet ngithi nilele kanti nibambana ngamanga anje la ,anger,fear,False
+kusale oyedwa enkundleni bedubulana namaphoyisa,anger,sadness,False
+ngeke ngithuke ngoba legenge ehamba nama sonto iweekend yonke ave idlana lapha ematendeni  ,anger,sadness,False
+abebucs nelinye ithambo lokugiya,anger,sadness,False
+akulalwa ngihleli nawe bhari lomama wakhuluma engathi sihlukanisa unyaka nje mafreshsa ukhozi_fm,anger,surprise,False
+zibonga abantu basemzansi izithandani zodumo lwasekfc,anger,surprise,False
+mawande71308261 iam_shado mina ngithi nje hla hle hli hlo hlukana ,anger,surprise,False
+kusolwa umkhuba ekhaya ngotholwe emotweni yakhe eseshonile esonakele,disgust,sadness,False
+uboshiwe umfundi obulale uthisha,disgust,sadness,False
+le mbiza icoba intlzyo ngathi imorning sickness ,disgust,sadness,False
+uvalo amabhubesi ebhubhisa imfuyo,fear,sadness,False
+umgungundlovu uhamba phambili ngababulawa yicovid19,fear,sadness,False
+umasipala uxovekile sidinga usizo lwamasosha  zandile gumede,fear,sadness,False
+umphakathi uhlomule ngamaloli amanzi,joy,sadness,False
+injabulo ukwesta ebopha ifindo lomshado,joy,sadness,False
+sijabulile ngabafuna ukuhola ianc,joy,sadness,False
+nakhu la sikhona ngaleskhathi awuqine ushuni kadangala majongo akukhushukwe drip law every szn is denim szn  ,joy,surprise,False
+guys bajabulile abantu be glorious movement ku facebook kuya le kuya le ,joy,surprise,False
+kulimale umgibeli obehleli phambili etekisini ngesikhathi lishayisana neveni kum25 namuhla ekuseni isolezwenews er24 ems pty ltd ,sadness,surprise,False
+uzuma uhlawuliswe r60 000 ngenkulumo enokucwasa,surprise,sadness,False
+uthisha usehole ur1m engasebenzi,surprise,sadness,False
+ubaba ecaleni lokudlwengula ingane 14 yakhulelwa,surprise,sadness,False
